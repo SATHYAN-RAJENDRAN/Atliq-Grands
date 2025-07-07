@@ -22,4 +22,4 @@ Microsoft Power BI Desktop
 Power Query (ETL)
 DAX (Data Analysis Expressions)
 
-Link for Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjg0YTFlMzgtNGIzMi00Yjc2LThkMWMtZTZhMWViMTBmZjFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Link for Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjg0YTFlMzgtNGIzMi00Yjc2LThkMWMtZTZhMWViMTBmZjFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c6ff3ea058a0d608093e
