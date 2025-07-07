@@ -15,6 +15,8 @@ To build a clean, interactive dashboard in Power BI that delivers clear, actio
 
 📈 Visual Storytelling: Designed dashboard visuals to showcase trends, comparisons, and key metrics
 
+📷 Dashboard Preview:
+
 🛠 Tools Used:
 Microsoft Power BI Desktop
 Power Query (ETL)
