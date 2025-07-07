@@ -15,7 +15,7 @@ To build a clean, interactive dashboard in Power BI that delivers clear, actio
 
 📈 Visual Storytelling: Designed dashboard visuals to showcase trends, comparisons, and key metrics
 
-📷 Dashboard Preview:
+📷 Dashboard Preview: https://github.com/SATHYAN-RAJENDRAN/Atliq-Grands/blob/main/Atliq%20Grands%20Hospitality%20Dashboard.png
 
 🛠 Tools Used:
 Microsoft Power BI Desktop
